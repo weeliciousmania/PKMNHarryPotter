@@ -2,3 +2,5 @@
 43,East,1,8,West,0
 # Little Whinging (2) - Route 1 (5)
 2,North,0,5,South,0
+# Route 8 (69) - Little Whinging (2)
+69,North,12,2,South,0
